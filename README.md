@@ -1,6 +1,9 @@
 # Bot_Whatsapp
 bot para envio de mensagens em massa
 
+Sobre:
+O bot de mensagens usa um sistema com em que cada mensagem, o metodo para envio e a mensagem mudam, o que garante que cada mensagem seja unica e faça com que o bot não seja indentificado.
+
 Instalação:
     baixe os arquivos chromedriver.exe e mambot.exe
 
@@ -17,5 +20,6 @@ Para enviar mensagens com quebras de linhas ou Emojis, use as mensagens rapidas 
     1.Cadastre as mensagens que deseja enviar e as salve com um nome de sua preferência
     2.No campos de "Mensagem 1" e "Mensagem 2" digite "/" + o nome que salvou para sua mensagem rápida
     
+O bot identifica os Contatos separandos por virgula, (Exemplo: 79 9166433, 81 95646532, 46 454655)
    
   
