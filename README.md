@@ -20,6 +20,6 @@ Para enviar mensagens com quebras de linhas ou Emojis, use as mensagens rapidas 
     1.Cadastre as mensagens que deseja enviar e as salve com um nome de sua preferência
     2.No campos de "Mensagem 1" e "Mensagem 2" digite "/" + o nome que salvou para sua mensagem rápida
     
-O bot identifica os Contatos separandos por virgula, (Exemplo: 79 9166433, 81 95646532, 46 454655)
-   
+O bot identifica os Contatos separandos por virgula (Exemplo: 79 9166433, 81 95646532, 46 454655)
+    Caso queira saber como converter sua planilha ou arquivo CSV, procure na internet para mais informações   
   
